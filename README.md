@@ -7,6 +7,7 @@
 ## Technology Used
 - Postman
 - Newman
+## Report:
 ![report dashboard](https://user-images.githubusercontent.com/71556293/214922686-5347509d-69e0-4c7d-b0a5-e8ca424282c8.PNG)
 
 ##Documentation:
